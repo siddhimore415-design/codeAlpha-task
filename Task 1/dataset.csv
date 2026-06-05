@@ -1,0 +1,101 @@
+Customer Name,Product Name,Category,Price,Discount (%),Rating,Reviews,Payment Method,Profit,State
+Vivaan,A Light in the Attic,Beauty,51.77,19,Three,486,Cash on Delivery,9.99,Tamil Nadu
+Sneha,Tipping the Velvet,Electronics,53.74,46,One,345,Net Banking,10.72,Tamil Nadu
+Anaya,Soumission,Books,50.1,31,One,174,Cash on Delivery,11.37,Karnataka
+Aditya,Sharp Objects,Beauty,47.82,40,Four,167,Cash on Delivery,11.89,Maharashtra
+Vivaan,Sapiens: A Brief History of Humankind,Beauty,54.23,22,Five,283,Credit Card,8.49,Delhi
+Anaya,The Requiem Red,Home,22.65,48,One,278,Debit Card,3.42,Karnataka
+Rahul,The Dirty Little Secrets of Getting Your Dream Job,Fashion,33.34,39,Four,43,Cash on Delivery,7.57,Delhi
+Sneha,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",Beauty,17.93,49,Three,92,Net Banking,5.06,Kerala
+Siddhi,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Home,22.6,15,Four,81,Credit Card,5.57,Maharashtra
+Anaya,The Black Maria,Home,52.15,8,One,164,UPI,6.67,Rajasthan
+Sneha,"Starving Hearts (Triangular Trade Trilogy, #1)",Beauty,13.99,19,Two,48,Debit Card,1.61,Punjab
+Priya,Shakespeare's Sonnets,Home,20.66,18,Four,51,UPI,3.25,Delhi
+Sneha,Set Me Free,Electronics,17.46,18,Five,273,Cash on Delivery,2.93,Rajasthan
+Aditya,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),Fashion,52.29,46,Five,292,Cash on Delivery,14.3,Delhi
+Sneha,Rip it Up and Start Again,Home,35.02,34,Five,126,Cash on Delivery,10.9,Maharashtra
+Siddhi,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",Electronics,57.25,10,Three,39,Net Banking,15.34,Rajasthan
+Rahul,Olio,Beauty,23.88,34,One,80,Cash on Delivery,7.34,Tamil Nadu
+Vivaan,Mesaerion: The Best Science Fiction Stories 1800-1849,Fashion,37.59,35,One,384,Cash on Delivery,8.23,Karnataka
+Vivaan,Libertarianism for Beginners,Books,51.33,35,Two,414,Credit Card,15.66,Punjab
+Rohan,It's Only the Himalayas,Electronics,45.17,12,Two,214,Net Banking,14.31,Maharashtra
+Aarav,In Her Wake,Books,12.84,43,One,231,Net Banking,2.17,Kerala
+Neha,How Music Works,Electronics,37.32,15,Two,352,Debit Card,7.93,Rajasthan
+Vivaan,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",Beauty,30.52,8,Three,443,UPI,8.52,Kerala
+Vivaan,Chase Me (Paris Nights #2),Fashion,25.27,15,Five,174,Debit Card,8.58,Rajasthan
+Neha,Black Dust,Home,34.53,32,Five,41,Cash on Delivery,11.38,Tamil Nadu
+Neha,Birdsong: A Story in Pictures,Electronics,54.64,36,Three,96,Net Banking,10.41,Gujarat
+Rohan,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,Electronics,22.5,6,Three,284,Cash on Delivery,5.23,Delhi
+Anaya,Aladdin and His Wonderful Lamp,Electronics,53.13,13,Three,48,Net Banking,17.54,Karnataka
+Aditya,Worlds Elsewhere: Journeys Around Shakespeareâs Globe,Home,40.3,19,Five,387,UPI,7.77,Kerala
+Siddhi,Wall and Piece,Books,44.18,21,Four,208,Credit Card,9.79,Punjab
+Vivaan,The Four Agreements: A Practical Guide to Personal Freedom,Electronics,17.66,31,Five,328,Credit Card,4.4,Rajasthan
+Aarav,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Fashion,31.05,19,Three,423,Credit Card,4.37,Tamil Nadu
+Priya,The Elephant Tree,Electronics,23.82,6,Five,482,UPI,5.92,Delhi
+Siddhi,The Bear and the Piano,Books,36.89,38,One,38,UPI,6.76,Delhi
+Aditya,Sophie's World,Beauty,15.94,27,Five,83,UPI,5.34,Rajasthan
+Anaya,Penny Maybe,Electronics,33.29,18,Three,23,Cash on Delivery,7.65,Tamil Nadu
+Priya,Maude (1883-1993):She Grew Up with the country,Home,18.02,14,Two,472,UPI,3.75,Karnataka
+Rohan,"In a Dark, Dark Wood",Fashion,19.63,38,One,171,Credit Card,2.43,Gujarat
+Priya,Behind Closed Doors,Books,52.22,33,Four,286,Net Banking,14.11,Gujarat
+Rohan,You can't bury them all: Poems,Books,33.63,26,Two,182,Cash on Delivery,7.8,Gujarat
+Rohan,Slow States of Collapse: Poems,Beauty,57.31,29,Three,125,Credit Card,7.75,Tamil Nadu
+Vivaan,Reasons to Stay Alive,Fashion,26.41,28,Two,454,Debit Card,8.94,Punjab
+Sneha,Private Paris (Private #10),Books,47.61,13,Five,342,Net Banking,10.62,Tamil Nadu
+Rohan,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,Fashion,23.11,25,Five,500,Credit Card,7.13,Maharashtra
+Siddhi,Without Borders (Wanderlove #1),Fashion,45.07,18,Two,485,UPI,14.05,Maharashtra
+Aditya,When We Collided,Fashion,31.77,32,One,92,Debit Card,7.23,Maharashtra
+Aditya,"We Love You, Charlie Freeman",Fashion,50.27,9,Five,152,Cash on Delivery,7.56,Rajasthan
+Aarav,Untitled Collection: Sabbath Poems 2014,Fashion,14.27,18,Four,77,Debit Card,4.64,Delhi
+Anaya,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",Electronics,44.18,19,Four,99,Cash on Delivery,12.06,Gujarat
+Priya,Unicorn Tracks,Home,18.78,27,Three,390,Debit Card,2.49,Gujarat
+Rohan,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",Fashion,25.52,10,One,53,UPI,6.18,Gujarat
+Neha,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),Books,16.28,46,One,410,Cash on Delivery,3.43,Punjab
+Rahul,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,Books,31.12,26,Three,275,UPI,10.02,Karnataka
+Neha,This One Summer,Beauty,19.49,39,Four,316,UPI,4.16,Rajasthan
+Vivaan,Thirst,Fashion,17.27,9,Five,395,Credit Card,4.17,Tamil Nadu
+Vivaan,The Torch Is Passed: A Harding Family Story,Home,19.09,35,One,295,Net Banking,6.47,Punjab
+Priya,The Secret of Dreadwillow Carse,Beauty,56.13,8,One,490,Net Banking,18.46,Delhi
+Rahul,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",Fashion,56.41,47,One,437,Credit Card,7.73,Tamil Nadu
+Anaya,The Past Never Ends,Electronics,56.5,45,Four,334,Credit Card,15.19,Maharashtra
+Priya,The Natural History of Us (The Fine Art of Pretending #2),Fashion,45.22,48,Three,54,Debit Card,9.35,Delhi
+Sneha,The Nameless City (The Nameless City #1),Home,38.16,49,Four,153,UPI,9.9,Delhi
+Rahul,The Murder That Never Was (Forensic Instincts #5),Books,54.11,23,Three,142,UPI,9.13,Rajasthan
+Aditya,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,Beauty,42.96,40,Four,292,UPI,8.66,Delhi
+Vivaan,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",Fashion,23.89,26,Four,75,Credit Card,8.17,Punjab
+Priya,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Beauty,16.77,17,Three,465,Cash on Delivery,2.34,Tamil Nadu
+Sneha,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",Electronics,20.59,29,Five,337,UPI,6.39,Rajasthan
+Priya,The Gutsy Girl: Escapades for Your Life of Epic Adventure,Books,37.13,40,One,272,Net Banking,12.56,Gujarat
+Aditya,The Electric Pencil: Drawings from Inside State Hospital No. 3,Books,56.06,15,One,365,Credit Card,7.14,Gujarat
+Neha,The Death of Humanity: and the Case for Life,Home,58.11,39,Four,269,UPI,13.65,Delhi
+Aditya,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",Beauty,49.05,40,Three,423,Net Banking,10.94,Maharashtra
+Vivaan,The Art Forger,Beauty,40.76,24,Three,448,Debit Card,7.34,Delhi
+Rahul,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,Electronics,19.73,18,One,319,Debit Card,6.21,Delhi
+Sneha,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,Books,32.24,20,Five,235,Debit Card,9.12,Karnataka
+Rahul,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,Books,41.83,5,Four,37,Cash on Delivery,10.55,Gujarat
+Neha,Soul Reader,Home,39.58,43,Two,411,Credit Card,11.66,Kerala
+Siddhi,Security,Beauty,39.25,44,Two,293,UPI,11.36,Delhi
+Siddhi,"Saga, Volume 6 (Saga (Collected Editions) #6)",Fashion,25.02,12,Three,33,Cash on Delivery,7.47,Kerala
+Anaya,"Saga, Volume 5 (Saga (Collected Editions) #5)",Electronics,51.04,20,Two,487,Credit Card,14.29,Tamil Nadu
+Sneha,Reskilling America: Learning to Labor in the Twenty-First Century,Fashion,19.83,12,Two,304,Debit Card,5.62,Maharashtra
+Neha,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",Fashion,50.4,18,Three,350,Cash on Delivery,7.75,Maharashtra
+Sneha,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",Fashion,13.61,15,Five,459,Credit Card,2.21,Tamil Nadu
+Aditya,Princess Between Worlds (Wide-Awake Princess #5),Beauty,13.34,25,Five,37,UPI,1.66,Maharashtra
+Rahul,"Pop Gun War, Volume 1: Gift",Home,18.97,7,One,340,Net Banking,4.78,Rajasthan
+Siddhi,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",Electronics,36.28,6,Two,500,UPI,6.22,Maharashtra
+Sneha,Patience,Books,10.16,40,Three,21,UPI,2.7,Gujarat
+Neha,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",Electronics,15.44,38,Four,63,UPI,4.17,Tamil Nadu
+Rohan,orange: The Complete Collection 1 (orange: The Complete Collection #1),Electronics,48.41,16,One,454,Debit Card,15.36,Punjab
+Vivaan,Online Marketing for Busy Authors: A Step-By-Step Guide,Books,46.35,18,One,208,UPI,9.01,Gujarat
+Sneha,On a Midnight Clear,Home,14.07,48,Three,405,Cash on Delivery,1.98,Punjab
+Sneha,Obsidian (Lux #1),Beauty,14.86,24,Two,482,Net Banking,1.89,Rajasthan
+Vivaan,My Paris Kitchen: Recipes and Stories,Home,33.37,39,Two,35,Debit Card,8.11,Tamil Nadu
+Aarav,Masks and Shadows,Electronics,56.4,36,Two,400,Debit Card,13.74,Delhi
+Priya,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",Beauty,14.02,6,Four,133,Debit Card,1.9,Karnataka
+Rahul,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",Home,46.91,44,Two,226,UPI,13.33,Delhi
+Rahul,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",Books,45.61,31,Three,327,Cash on Delivery,8.43,Karnataka
+Vivaan,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),Fashion,19.92,39,Two,232,Credit Card,5.86,Delhi
+Rahul,"Layered: Baking, Building, and Styling Spectacular Cakes",Fashion,40.11,22,One,149,Debit Card,7.08,Tamil Nadu
+Vivaan,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),Beauty,53.9,40,Two,373,Credit Card,13.02,Tamil Nadu
+Priya,Join,Fashion,35.67,43,Five,252,Net Banking,3.86,Gujarat
+Anaya,In the Country We Love: My Family Divided,Books,22,17,Four,344,Credit Card,6.62,Karnataka
