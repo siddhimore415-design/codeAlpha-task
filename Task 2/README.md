@@ -1,4 +1,4 @@
-ales Dashboard (Power BI) Overview
+sales Dashboard (Power BI) Overview
 
 This project is an interactive Sales Dashboard created using Power BI to analyze sales performance, profit trends, customer behavior, and product insights from 2020–2025.
 
